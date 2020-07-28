@@ -3,7 +3,7 @@
   "description": "A template for module based on eXeCUT Yii2 CRUD",
   "keywords": ["yii2 crud", "yii2 module template"],
   "homepage": "https://github.com/execut/yii2-module-template",
-  "type": "library",
+  "type": "yii2-extension",
   "license": "Apache-2.0",
   "support": {
     "issues": "https://github.com/execut/yii2-module-template/issues?state=open",
@@ -12,7 +12,7 @@
   },
   "authors": [
     {
-      "name": "eXeCUT"
+      "name": "Mamaev Yuriy (eXeCUT)"
     }
   ],
   "minimum-stability": "stable",
