@@ -3,6 +3,7 @@ execut\moduleTemplate
 
 0.1.2 dev
 - Added bootstrap folder
+- Added asset config to composer.json
 
 0.1.1
 - Removed dev from changelog
