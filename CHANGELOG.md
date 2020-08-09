@@ -5,3 +5,4 @@ execut\moduleTemplate
 ---------------------
 - Added module template
 - Added changelog
+- Added readme templates
