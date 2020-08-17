@@ -1,4 +1,4 @@
-execut\moduleTemplate
+execut\moduleTemplate releases
 ==============================================
 
 0.1.2 dev
