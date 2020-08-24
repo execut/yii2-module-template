@@ -1,7 +1,7 @@
 # Yii2 module template
 Template for yii2 module based on yii2-crud-fields
 
-For license information check the [LICENSE](LICENSE.md)-file.
+For license information check the [LICENSE-file](https://github.com/execut/yii2-module-template/blob/master/LICENSE.md).
 
 English documentation is at [docs/guide/README.md](https://github.com/execut/yii2-module-template/blob/master/docs/guide/README.md).
 
